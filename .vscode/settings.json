@@ -1,7 +1,20 @@
 {
     "cSpell.words": [
+        "dayses",
+        "hourses",
+        "Josefin",
+        "Lato",
+        "minuteses",
+        "monthseses",
         "nuxt",
         "nuxtjs",
-        "tailwindcss"
-    ]
+        "pinia",
+        "Raleway",
+        "Roboto",
+        "secondses",
+        "tailwindcss",
+        "wght",
+        "yearseses"
+    ],
+    "eslint.experimental.useFlatConfig": true
 }
